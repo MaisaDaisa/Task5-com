@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "neueBold";
+    src: url("./fonts/tt_firs_neue/TT\ Firs\ Neue\ Trial\ Medium.ttf");
+}
+@font-face {
+    font-family: "neueRegular";
+    src: url("./fonts/tt_firs_neue/TT\ Firs\ Neue\ Trial\ Regular.ttf");
+}
+@font-face {
+    font-family: "neueThin";
+    src: url("./fonts/tt_firs_neue/TT\ Firs\ Neue\ Trial\ Thin.ttf");
+}
+@font-face {
+    font-family: "neueOutline";
+    src: url("./fonts/tt_firs_neue/TT\ Firs\ Neue\ Bold\ Outline\ Trial.otf");
+}
+
+.font-24{
+    font-size: 24px;
+}
+.font-18{
+    font-size: 18px;
+}
+.font-36{
+    font-size: 36px;
+}
+.font-48{
+    font-size: 48px;
+}
+.font-64{
+    font-size: 64px;
+}
+.font-96{
+    font-size: 96px;
+}
+.font-274{
+    font-size: 274px;
+}
+.text-center{
+    text-align: center;
+}
+.light{
+    font-weight: 100;
+}
+.bold{
+    font-weight: bold;
+}
+.very-bold{
+    font-weight: 700;
+}
+.neueBold{
+    font-family: "neueBold";
+}
+.neueRegular{
+    font-family: "neueRegular";
+}
+.neueThin{
+    font-family: "neueThin";
+}
+.neueOutline {
+    font-family: "neueOutline";
+}
+.font-color-orange{
+    color: #EF4242;
+}
+.opacity-0-1{
+    opacity: 0.1;
+}

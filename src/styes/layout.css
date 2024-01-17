@@ -1,0 +1,165 @@
+.container{
+    width: 1220px;
+    margin: 0 auto;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.pb-12{
+    padding-bottom: 12px;
+}
+.pb-30{
+    padding-bottom: 30px;
+}
+.pb-50{
+    padding-bottom: 50px;
+}
+.pb-63{
+    padding-bottom: 63px;
+}
+.pl-11{
+    padding-left: 11px;
+}
+.pl-88{
+    padding-left: 88px;
+}
+.pl-108{
+    padding-left: 108px;
+}
+.pl-184{
+    padding-left: 184px;
+}
+.pt-84{
+    padding-top: 84px;
+}
+.p-26{
+    padding: 26px;
+}
+.m-11{
+    margin: 11px;
+}
+.mt-23{
+    margin-top: 23px;
+}
+.mt-40{
+    margin-top: 40px;
+}
+.ml-16{
+    margin-left: 16px;
+}
+.mr-32{
+    margin-right: 32px;
+}
+.mr-130{
+    margin-right: 130px;
+}
+.mr-48{
+    margin-right: 48px;
+}
+.mr-327{
+    margin-right: 327px;
+}
+.ml-258{
+    margin-left: 258px;
+}
+.mt-13{
+    margin-top: 13px;
+}
+.mt-30{
+    margin-top: 30px;
+}
+.mt-32{
+    margin-top: 32px;
+}
+.mt-45{
+    margin-top: 45px;
+}
+.mt-46{
+    margin-top: 46px;
+}
+
+.mt-50{ 
+    margin-top: 50px;
+}
+.mt-58{
+    margin-top: 58px;
+}
+.mt-71{
+    margin-top: 71px;
+}
+.mt-77{
+    margin-top: 77px;
+}
+.mt-84{
+    margin-top: 84px;
+}
+.mt-120{
+    margin-top: 120px;
+}
+.mt-93{
+    margin-top: 93px;
+}
+.mt-98{
+    margin-top: 98px;
+}
+.mt-127{
+    margin-top: 127px;
+}
+.mt-159{
+    margin-top: 159px;
+}
+.mt-180{
+    margin-top: 180px;
+}
+.mt-200{
+    margin-top: 200px;
+}
+.gap-40{
+    gap: 40px;
+}
+.gap-4{
+    gap: 4px;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.align-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-end{
+    justify-content: flex-end;
+}
+.justify-start{
+    justify-content: flex-start;
+}
+.justify-around{
+    justify-content: space-around;
+}
+.dir-column{
+    flex-direction: column;
+}
+.dir-row{
+    flex-direction: row;
+}
+.w-full{
+    width: 100%;
+}
+.w-654{
+    width: 654px;
+}
+.w-1061{
+    width: 1061px;
+}
+.h-647{
+    height: 647px;
+}
+.h-611{
+    height: 611px;
+}
+.w-1442w{
+    width: 1442px;
+}
