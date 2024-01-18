@@ -82,3 +82,8 @@ a:hover{
     bottom: 105px;
     left: 343px;
 }
+
+.two-photos{
+    gap: 20px;
+    flex-wrap: nowrap;
+}
